@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/metahulk_" target="blank"><img src="https://img.shields.io/twitter/follow/metahulk_?logo=twitter&style=for-the-badge" alt="metahulk_" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@aswinsreenivas33](https://medium.com/@aswinsreenivas33)
 
-- 💬 Ask me about **Django,Django REST,Postgres,Golang**
+- 💬 Ask me about **Django,Django REST,Postgres.
 
 - 📫 How to reach me **aswinsreenivas33@gmail.com**
 
